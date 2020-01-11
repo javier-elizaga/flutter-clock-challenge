@@ -52,15 +52,18 @@ And one of my favorites... Misty weather with the dark theme 🥰
 
 The app works in ios, android and web.
 
+Run:
+
+```bash
 flutter channel stable
 flutter upgrade
 
 cd digital_clock
 flutter create .
 flutter run
+```
 
 ### Prerequisites
-
 
 * [flutter](https://flutter.dev/docs/get-started/install)
 
