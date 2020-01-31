@@ -21,7 +21,7 @@ The app has both dark and light themes, and react to weather changes.
 
 Some examples:
 
-Night Light theme:
+Light theme at night:
 
 ![0010](0010.png)
 
